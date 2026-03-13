@@ -71,4 +71,79 @@ The final metric combines:
 - Hiring velocity
 - Strategic role composition
 
-Formula concept:
+**Formula concept: HMS = 0.5 × Hiring Velocity Score + 0.5 × Strategic Focus Score**
+
+Scores above **65 indicate strong growth signals**.
+
+---
+
+## Key Insights
+
+The analysis identified **five companies showing >2× hiring spikes**, indicating strong growth momentum.
+
+| Company | Spike Ratio | HMS Score |
+|--------|-------------|-----------|
+| Cred | 2.67 | 93 |
+| Jupiter | 3.00 | 93 |
+| Navi | 2.00 | 92 |
+| Pine Labs | 3.00 | 92 |
+| Razorpay | 2.25 | 93 |
+
+These companies showed concentrated hiring in **AI engineering, product roles, and compliance teams**, suggesting:
+
+- AI-driven credit products
+- Regulatory market expansion
+- Platform infrastructure scaling
+
+---
+
+## Product Concept: Investor Signal Layer
+
+Based on the analysis, the project proposes a product feature called **Investor Signal Layer**.
+
+The platform would transform raw hiring data into **investment intelligence for venture capital firms**.
+
+Key features include:
+
+- Hiring momentum alerts
+- Company expansion insights
+- Sector hiring heatmaps
+- Portfolio monitoring for VC firms
+- Historical trend validation
+
+This enables investors to identify high-growth startups **3–6 months before funding announcements**.
+
+---
+
+## Tools Used
+
+- **Microsoft Excel** – Data analysis and scoring model
+- **Manual role classification** – Strategic hiring signals
+- **Product analysis frameworks** – ICP, GTM strategy, and competitive analysis
+
+---
+
+## Repository Contents
+
+dataset & hms_model.xlsx
+assignment_submission.pdf
+assignment_instruction.pdf
+
+---
+
+## Potential Improvements
+
+Future enhancements could include:
+
+- Backtesting hiring spikes against historical funding rounds
+- Expanding the dataset to multiple industries
+- Automating job data ingestion from job boards
+- Applying statistical validation models
+
+---
+
+## Author
+
+**Viresh Kumar**  
+MBA – Business Analytics  
+UPES (University of Petroleum and Energy Studies)
