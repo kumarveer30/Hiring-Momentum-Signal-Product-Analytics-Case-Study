@@ -125,9 +125,9 @@ This enables investors to identify high-growth startups **3–6 months before fu
 
 ## Repository Contents
 
-dataset & hms_model.xlsx
-assignment_submission.pdf
-assignment_instruction.pdf
+- dataset & hms_model.xlsx
+- assignment_submission.pdf
+- assignment_instruction.pdf
 
 ---
 
